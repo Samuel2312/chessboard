@@ -1,2 +1,2 @@
 # chessboard
-building the board of chess using html and css 
+designing the board of chess using html and css 
